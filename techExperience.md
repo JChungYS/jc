@@ -49,7 +49,16 @@ Python programming
 
 2018 fastAI learning
 
+2019 
+
+coursera/U. of Michigan: Model Thinking
+
 2020 Gcloud computing -- https://www.qwiklabs.com/public_profiles/2d46190d-27b5-41e9-bf33-acbf92deb702
+
+Coursera/DeepLearning.AI ,“TensorFlow Developer"
+
+Coursera/Google Cloud Fundamental
+
 
 2022 -- proceeding ERB course -- backend development(Java Script, Express, MongoDB, Nodes) -- MERN
  
