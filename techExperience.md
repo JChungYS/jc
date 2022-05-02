@@ -48,8 +48,8 @@ R program, DataScience Tool Box
 Python programming
 
 2018 fastAI learning
-2020 Gcloud computing -- https://www.qwiklabs.com/public_profiles/2d46190d-27b5-41e9-bf33-acbf92deb702
 
+2020 Gcloud computing -- https://www.qwiklabs.com/public_profiles/2d46190d-27b5-41e9-bf33-acbf92deb702
 
 2022 -- proceeding ERB course -- backend development(Java Script, Express, MongoDB, Nodes) -- MERN
  
