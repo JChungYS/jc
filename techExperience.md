@@ -2,19 +2,19 @@
 ---
 Start building transistor radio in 1970s. 
 
-Cosmo Computing Institute – summer course, Learning BASIC programming with Apple II computer. 
+1982 Cosmo Computing Institute – summer course, Learning BASIC programming with Apple II computer. 
 
 I was learning in writing code for at least 25 hours in the lab – not eating and sleeping. 
 
-Get my first personal computer -- 1983. Bonwell  --- More than 3000+ HK dollar!!!! At that time. 
+1983 Get my first personal computer --  Bonwell,  cost more than 3000+ HK dollar!!!! At that time. 
 
-Working as Trainee of Project Supervisor in EDD of Government -- and got my Civil-Engineering,  
+1983 Working as Trainee of Project Supervisor in EDD of Government -- and got my Civil-Engineering,  
 
-After my training, I was called to study in Theological College, it change my path to serve NGO. 
+ 1985 After my training, I was called to study in Theological College, it change my path to serve NGO. 
 
 I was working as Administrative and Teaching in the school part-time then full-time in the same School 
 
-At that time,, using IBM-XT(8088, 286, 386) work-prefect, Lotus-123, etc ...  MS-DOS and window ver.2.  
+At that time,, using IBM-XT(8088, 286, 386) work-prefect, Lotus-123, etc ...  MS-DOS and window ver.2.  I was working on the DBase III system for the catalogue of the library.
 
 1989 to 1992 Study in New Asia -- English and Translation, a computer course. 
 
@@ -49,7 +49,10 @@ Crash course in Creativity, Venture Lab – Start Up,
 R program, DataScience Tool Box
 Python programming
 
- 
- 
- 
+2018 fastAI learning
+2020 Gcloud computing -- https://www.qwiklabs.com/public_profiles/2d46190d-27b5-41e9-bf33-acbf92deb702
 
+
+2022 -- proceeding ERB course -- backend development(Java Script, Express, MongoDB, Nodes) -- MERN
+ 
+   
