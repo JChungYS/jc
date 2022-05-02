@@ -16,7 +16,7 @@ I was working as Administrative and Teaching in the school part-time then full-t
 
 At that time,, using IBM-XT(8088, 286, 386) work-prefect, Lotus-123, etc ...  MS-DOS and window ver.2.  I was working on the DBase III system for the catalogue of the library.
 
-1989 to 1992 Study in New Asia Business and Commercial College -- major in English and Translation, I took a computer course, in which the student was learning MS works, and my teacher offered myself more training in Pascal and Lisp( Elisa) by myself.
+1989 to 1992 Study in New Asia Business and Commercial College -- major in English and Translation, I took a computer course, in which the students were learning MS works, and my teacher offered  more training materials about Pascal and Lisp( Elisa) that I could learn by myself.
 
 1993 – Singapore, 
 
